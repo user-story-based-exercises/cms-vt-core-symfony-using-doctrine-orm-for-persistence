@@ -25,7 +25,7 @@ New quotes can be added via console or form to the database
   - Movie name
   - Movie release year
   - Quote
-  - Character who quotes![image](https://user-images.githubusercontent.com/8425188/181904922-64ba4f05-e00b-41f7-9940-c7e1d3d69bff.png)
+  - Character who quotes
 
 ## User Story 3
 *As an EDITOR I want to be able to remove existing movie quotes, so I can delete wrong information from the pool of available quotes.*
