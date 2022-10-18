@@ -15,7 +15,7 @@ Because many standard functionalities are needed, your agency suggested to use t
   - Quote
   - Character who quotes
   - Movie (relation)
-New quotes can be added via console or form to the database
+- New quotes can be added via console or form to the database
 
 ## User Story 2
 *As an EDITOR I want to be able to list existing movie quotes, so I have an overview what is already stored in the database.*
