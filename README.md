@@ -33,5 +33,12 @@ Because many standard functionalities are needed, your agency suggested to use t
 ### Acceptance Criteria
 - Editors can remove movie quote entries from the overview via click of a button
 
+## User Story 4
+*As an EDITOR I want to be able to add movies, so I can add quotes for movies not currently present in the databases*
+
+### Acceptance Criteria
+- Editors can add movie entries from the overview via click of a button
+
+
 #### Links
 https://my.skilldisplay.eu/en/skillset/120
