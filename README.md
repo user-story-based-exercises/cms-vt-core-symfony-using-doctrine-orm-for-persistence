@@ -9,8 +9,8 @@ Because many standard functionalities are needed, your agency suggested to use t
 
 ### Acceptance Criteria
 - A model for a movie exists
-  -Movie name
-  -Movie release year
+  - Movie name
+  - Movie release year
 - A model for a movie quote exists
   - Quote
   - Character who quotes
