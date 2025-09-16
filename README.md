@@ -39,6 +39,12 @@ Because many standard functionalities are needed, your agency suggested to use t
 ### Acceptance Criteria
 - Editors can add movie entries from the overview via click of a button
 
+## User Story 5
+*As an EDITOR I want to be able to search for movie titles, so I can easily retrieve information about specific movies.*
 
+### Acceptance Criteria
+- Editors can filter the list created in User Story 2 by title
+- Titles are listed if the title contains the string in the search text box
+  
 #### Links
 https://my.skilldisplay.eu/en/skillset/120
