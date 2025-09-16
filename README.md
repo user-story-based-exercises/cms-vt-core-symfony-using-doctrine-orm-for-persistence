@@ -45,6 +45,16 @@ Because many standard functionalities are needed, your agency suggested to use t
 ### Acceptance Criteria
 - Editors can filter the list created in User Story 2 by title
 - Titles are listed if the title contains the string in the search text box
+
+## User Story 6
+* As a developer I want to be able to access CRUD operations via API, so that I can connect my custom implementation to the web service*
+
+### Acceptance Criteria
+- Users can create new records via API (PUT Method)
+- Users can read records via API (single records and a list of all records) (GET Method)
+- Users can delete records via API (DELETE Method)
+- Users can update records via API (PATCH Method)
+- all operations are available under the slug /api/movie
   
 #### Links
 https://my.skilldisplay.eu/en/skillset/120
